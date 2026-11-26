@@ -1,0 +1,21 @@
+.AZIZBEK{
+    
+
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    height: 100px;
+    gap: 20px;
+}
+.shih{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 10px;
+    color: black;
+    background-color: white;
+}
+.ert{
+    border-radius: 100%;
+}
